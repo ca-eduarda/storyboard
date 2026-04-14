@@ -1,4 +1,4 @@
-# Ensaio Storyboard
+# Storyboard
 
 A tool for photographers to build a **session storyboard** with a moodboard, shoot details, and a **PDF export** you can send to the client.
 
